@@ -1,5 +1,5 @@
 
-class LinuxMainGen < Formula
+class LinuxmainGen < Formula
     desc "A tool to automatically generate LinuxMain.swift"
     homepage "https://github.com/rb-de0/LinuxMainGen"
     version "0.1.0"
